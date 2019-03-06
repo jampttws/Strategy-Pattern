@@ -1,3 +1,5 @@
+package FlexibleCash;
+
 public class CalculateTaxThailand implements CalculateTax{
 
     @Override

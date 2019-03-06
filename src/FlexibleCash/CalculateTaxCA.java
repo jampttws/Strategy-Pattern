@@ -1,3 +1,5 @@
+package FlexibleCash;
+
 public class CalculateTaxCA implements CalculateTax{
 
     @Override

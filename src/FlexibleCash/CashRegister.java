@@ -1,3 +1,5 @@
+package FlexibleCash;
+
 public class CashRegister {
 
     private double purchase; // total amount of product price bought
